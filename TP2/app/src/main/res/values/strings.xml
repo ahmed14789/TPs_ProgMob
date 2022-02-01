@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="title">Title</string>
+    <string name="duration">Duration</string>
+    <string name="category">Category</string>
+    <string name="description">Description</string>
+    <string name="Add">Add</string>
+    <string-array name="categories_array">
+        <item>Other</item>
+        <item>Work</item>
+        <item>Sport</item>
+        <item>Chores</item>
+        <item>Reading</item>
+        <item>Children</item>
+        <item>Shopping</item>
+    </string-array>
+</resources>
